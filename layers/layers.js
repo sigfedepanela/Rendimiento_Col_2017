@@ -31,11 +31,11 @@ jsonSource_DepartamentosProductoresdeCaaPanelera_1.addFeatures(features_Departam
                 source:jsonSource_DepartamentosProductoresdeCaaPanelera_1, 
                 style: style_DepartamentosProductoresdeCaaPanelera_1,
     title: 'Departamentos Productores de Caña Panelera<br />\
-    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_0.png" />  1 - 4 <br />\
-    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_1.png" />  4 - 5 <br />\
-    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_2.png" />  5 - 7 <br />\
-    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_3.png" />  7 - 9 <br />\
-    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_4.png" />  9 - 11 <br />'
+    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_0.png" />  1.0 - 3.6 <br />\
+    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_1.png" />  3.6 - 5.3 <br />\
+    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_2.png" />  5.3 - 7.1 <br />\
+    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_3.png" />  7.1 - 8.8 <br />\
+    <img src="styles/legend/DepartamentosProductoresdeCaaPanelera_1_4.png" />  8.8 - 12.0 <br />'
         });var format_RendimientodeCaaPaneleraToneladasHa2017_2 = new ol.format.GeoJSON();
 var features_RendimientodeCaaPaneleraToneladasHa2017_2 = format_RendimientodeCaaPaneleraToneladasHa2017_2.readFeatures(json_RendimientodeCaaPaneleraToneladasHa2017_2, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
